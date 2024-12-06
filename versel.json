@@ -1,0 +1,7 @@
+{
+  "framework": "create-react-app",
+  "outputDirectory": ".",
+  "buildCommand": "",
+  "installCommand": "",
+  "devCommand": "npm start"
+}
